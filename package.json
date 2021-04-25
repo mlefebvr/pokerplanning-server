@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/mlefebvr/pokerplanning-server/issues"
   },
-  "homepage": "https://github.com/mlefebvr/pokerplanning-server#readme"
+  "homepage": "https://github.com/mlefebvr/pokerplanning-server#readme",
+  "dependencies": {
+    "socket.io": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
